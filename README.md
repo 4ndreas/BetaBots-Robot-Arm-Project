@@ -8,3 +8,7 @@ for more infos.
 Green is the current version (V4)
 
 open Green/Inventor/Workspace/v4/RobotV4.iam
+
+You can find infos about the gripper:
+http://www.thingiverse.com/thing:661286
+
